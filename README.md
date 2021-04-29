@@ -1,4 +1,4 @@
-# student enrolling app
+# Student enrolling app
 
 App built using MEAN stack(MongoDB, Express ,Angular8, Node)
 
